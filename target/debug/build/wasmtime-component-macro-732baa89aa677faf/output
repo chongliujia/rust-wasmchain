@@ -1,2 +1,0 @@
-cargo:rerun-if-changed=build.rs
-cargo:rustc-env=DEBUG_OUTPUT_DIR=/Users/jiachongliu/My-Github-Project/rust-wasmchain/target/debug/build/wasmtime-component-macro-732baa89aa677faf/out
