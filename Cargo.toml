@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "node",
+    "runtime",
+    "state",
+    "types",
+    "contracts/counter",
+#    "cli",
+]
+
+resolver = "2"

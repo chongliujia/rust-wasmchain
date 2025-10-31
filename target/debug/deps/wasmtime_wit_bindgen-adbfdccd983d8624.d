@@ -1,0 +1,10 @@
+/Users/jiachongliu/My-Github-Project/rust-wasmchain/target/debug/deps/libwasmtime_wit_bindgen-adbfdccd983d8624.rmeta: /Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-26.0.1/src/lib.rs /Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-26.0.1/src/rust.rs /Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-26.0.1/src/source.rs /Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-26.0.1/src/types.rs
+
+/Users/jiachongliu/My-Github-Project/rust-wasmchain/target/debug/deps/libwasmtime_wit_bindgen-adbfdccd983d8624.rlib: /Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-26.0.1/src/lib.rs /Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-26.0.1/src/rust.rs /Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-26.0.1/src/source.rs /Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-26.0.1/src/types.rs
+
+/Users/jiachongliu/My-Github-Project/rust-wasmchain/target/debug/deps/wasmtime_wit_bindgen-adbfdccd983d8624.d: /Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-26.0.1/src/lib.rs /Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-26.0.1/src/rust.rs /Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-26.0.1/src/source.rs /Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-26.0.1/src/types.rs
+
+/Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-26.0.1/src/lib.rs:
+/Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-26.0.1/src/rust.rs:
+/Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-26.0.1/src/source.rs:
+/Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-26.0.1/src/types.rs:

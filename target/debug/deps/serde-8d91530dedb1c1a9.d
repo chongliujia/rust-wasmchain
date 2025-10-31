@@ -1,0 +1,14 @@
+/Users/jiachongliu/My-Github-Project/rust-wasmchain/target/debug/deps/libserde-8d91530dedb1c1a9.rmeta: /Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/jiachongliu/My-Github-Project/rust-wasmchain/target/debug/build/serde-02d489cde5774bf7/out/private.rs
+
+/Users/jiachongliu/My-Github-Project/rust-wasmchain/target/debug/deps/libserde-8d91530dedb1c1a9.rlib: /Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/jiachongliu/My-Github-Project/rust-wasmchain/target/debug/build/serde-02d489cde5774bf7/out/private.rs
+
+/Users/jiachongliu/My-Github-Project/rust-wasmchain/target/debug/deps/serde-8d91530dedb1c1a9.d: /Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/jiachongliu/My-Github-Project/rust-wasmchain/target/debug/build/serde-02d489cde5774bf7/out/private.rs
+
+/Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/jiachongliu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/jiachongliu/My-Github-Project/rust-wasmchain/target/debug/build/serde-02d489cde5774bf7/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/jiachongliu/My-Github-Project/rust-wasmchain/target/debug/build/serde-02d489cde5774bf7/out
